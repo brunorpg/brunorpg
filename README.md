@@ -1,13 +1,14 @@
 ## Oi ! Eu sou o Bruno Rangel! ##
-### Tenho mais de 14 anos de experiência na área de suporte/infra e atualmente me dedicando na migração para área de desenvolvimento em front-end. ###
+
+Tenho mais de 14 anos de experiência na área de suporte/infra e atualmente me dedicando na migração para área de desenvolvimento em front-end. 
 
 
 ##
 
 <div align="center">
   <a href="https://github.com/brunorpg">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunorpg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorpg&layout=compact&langs_count=7&theme=dracula"/>   
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunorpg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorpg&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
 
   ##
