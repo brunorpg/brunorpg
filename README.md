@@ -1,6 +1,6 @@
 ## Oi ! Eu sou o Bruno! ##
 
-Tenho mais de 14 anos de experiência na área de suporte/infra e atualmente me dedicando na migração para área de desenvolvimento em front-end. 
+Tenho mais de 14 anos de experiência na área de suporte/infra e atualmente me dedicando na migração para área de desenvolvimento. 
 
 
 ##
